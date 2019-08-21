@@ -1,0 +1,33 @@
+
+.sidebar-options {
+	margin-top: 20px;
+}
+
+.btn {
+	color: #fff;
+	transition: all 0.3s ease 0s;
+}
+
+.btn:hover {
+	color: #fff;
+}
+
+.btn-login {
+	background-color: #4ABDAC;
+	border-color: #4ABDAC;
+}
+
+.btn-login:hover {
+	background-color: #368c7f;
+	border-color: #368c7f;
+}
+
+.btn-register {
+	background-color: #FC4A1A;
+	border-color: #FC4A1A;
+}
+
+.btn-register:hover {
+	background-color: #b53310;
+	border-color: #FC4A1A;
+}
